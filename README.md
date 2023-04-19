@@ -20,7 +20,9 @@ storage:link”.
 5. I have attached the video of task flow.
 
 6. Web Url : http://localhost/packt
+
 7. Admin Url : http://localhost/packt/admin
+
     • Email: admin@bookstore.com
     • Password: 12345678
 
