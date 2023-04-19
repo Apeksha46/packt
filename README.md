@@ -3,7 +3,6 @@ Pack Book Store Instruction
 
 Technologies Use:
 
-
     • Backend : Laravel 9
     • Frontend : Bootstrap, html5, CSS, JavaScript, jQuery, Ajax
     • Database : MYSQL.
@@ -20,7 +19,7 @@ storage:link”.
 4. Web Url : http://localhost/packt
 5. Admin Url : http://localhost/packt/admin
 
-Email: admin@bookstore.com
-Password: 12345678
+    • Email: admin@bookstore.com
+    • Password: 12345678
 
 6. I have attached the video of task flow.
