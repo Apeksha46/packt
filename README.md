@@ -9,6 +9,7 @@ Technologies Use:
 
 
 1. Please use this git link : https://github.com/Apeksha46/packt
+
 2. Create mySQL database Database name : book_store
 
 3. After creating database import book_store file in book_store DB Or use artisan command
