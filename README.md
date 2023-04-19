@@ -1,11 +1,14 @@
 Pack Book Store Instruction
 
 
-
 Technologies Use:
+
+
     • Backend : Laravel 9
     • Frontend : Bootstrap, html5, CSS, JavaScript, jQuery, Ajax
     • Database : MYSQL.
+
+
 
 1. Please use this git link : https://github.com/Apeksha46/packt
 2. Create mySQL database Database name : book_store
