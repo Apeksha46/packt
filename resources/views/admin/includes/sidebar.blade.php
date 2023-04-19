@@ -3,9 +3,11 @@
  <aside class="main-sidebar sidebar-light-primary elevation-4 overflow-auto">
     <!-- Brand Logo -->
     <a href="" class="brand-link">
-      <p>Packt Book Store</p>
+      <!-- <p>Packt Book Store</p> -->
+      <img src="{{ asset('public/dist/img/logo-new.svg') }}" alt="Book Store" class="nav-link" style="width: 200px;height: 100px;">
        <span class="brand-text font-weight-light" ></span>
     </a>
+
 
     <!-- Sidebar -->
     <div class="sidebar">
